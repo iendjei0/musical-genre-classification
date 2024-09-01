@@ -16,4 +16,4 @@ All necessary libraries are listed in the notebook's first page under the import
 ## Usage
 
 1. Clone the repository.
-2. Run the notebook: `jupyter notebook Music_Genre_Classification.ipynb`
+2. Run the notebook: `jupyter notebook classification.ipynb`
